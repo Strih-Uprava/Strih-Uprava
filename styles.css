@@ -87,7 +87,7 @@ body {
     z-index: 2;
 }
 
-/* Dalsší odstavec */
+/* Další odstavec */
 .interests {
     padding: 15px 5px;
     background-color: #ffffff;
@@ -95,7 +95,7 @@ body {
     text-align: center;
 }
 
-/* Dalsší odstavec */
+/* Další odstavec */
 .interests2 {
     padding: 15px 5px;
     background-color: #ffffff;
@@ -176,3 +176,4 @@ footer {
         display: block;
     }
 }
+
